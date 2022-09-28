@@ -1,0 +1,34 @@
+.swiper {
+    width: 400px;
+    height: 200px;
+    position: absolute; 
+    left: 205px;
+  }
+  
+  .box1 {
+    width: 380px;
+    height: 260px;
+    margin-top:7px;
+    margin-left: 7px;
+  }
+  .box2 {
+    width: 210px;
+    height: 250px;
+    margin-top: 7px;
+    margin-right: 7px;
+    
+  }
+
+  .text_box {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+  }
+
+
+  .box3{
+    width: 225px;
+    height: 60px;
+    background-color: aqua;
+    margin-top: 304px;
+    margin-left: 230px;
+  }
